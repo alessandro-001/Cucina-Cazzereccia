@@ -2,6 +2,10 @@ import React from 'react'
 
 export default function Profile() {
   return (
-    <div>Profile</div>
+    <div>
+        <h1>Profile</h1>
+        <p>hello there</p>
+    </div>
+
   )
 }

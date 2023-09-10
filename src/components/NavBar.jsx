@@ -70,7 +70,7 @@ export default function NavBar() {
                       <img
                         className="h-8 w-8 rounded-full"
                         src=""
-                        alt=""
+                        alt="Profile avatar"
                       />
                     </Menu.Button>
                   </div>
