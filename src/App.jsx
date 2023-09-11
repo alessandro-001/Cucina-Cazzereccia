@@ -4,7 +4,7 @@ import Recipes from './components/Recipes'
 import Home from './components/Home'
 import AboutMe from './components/AboutMe'
 import Profile from './components/Profile'
-import { BrowserRouter, Routes, Route } from 'react-router-dom'
+import { BrowserRouter, Route, Routes } from 'react-router-dom'
 
 
 
